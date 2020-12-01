@@ -1,2 +1,2 @@
 # ros2_learning
-A meta-repo I created for learning ROS2. This uses the following repos: ros2_custom_msg, ros2_custom_publisher, and ros2_custom_subscriber.
+A repo I created for learning ROS2. This shows what a custom interface looks like, as well as a custom publisher and subscriber which uses the custom interface.
